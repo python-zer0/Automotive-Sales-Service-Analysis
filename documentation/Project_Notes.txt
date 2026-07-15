@@ -1,17 +1,75 @@
 Automotive Sales & Service Analysis
 
-Project Summary:
-This project analyzes automotive sales and service data using Microsoft Excel and Google Looker Studio.
+1. Project Overview
 
-Main Tasks:
-- Sales and profit analysis.
-- Dealer performance analysis.
+This project analyzes automotive sales and service data to discover business insights using Microsoft Excel and Google Looker Studio.
+
+The goal is to evaluate sales performance, dealer profitability, customer sentiment, and vehicle recall patterns.
+
+---
+
+2. Data Sources
+
+The project uses automotive datasets containing information about:
+
+- Car sales.
+- Dealer performance.
+- Vehicle models.
+- Customer sentiment.
+- Vehicle recalls.
+
+The raw data files are stored in the data folder.
+
+---
+
+3. Data Preparation
+
+The data preparation process included:
+
+- Reviewing the raw datasets.
+- Organizing Excel files.
+- Preparing data for analysis.
+- Connecting datasets to Google Looker Studio.
+
+---
+
+4. Analysis Process
+
+Excel Analysis:
+
+- Created charts to analyze sales quantity.
+- Analyzed profit trends.
+- Compared dealer performance.
+
+Google Looker Studio:
+
+- Created interactive dashboards.
+- Built KPI cards.
+- Developed charts for sales and service analysis.
+
+---
+
+5. Dashboard Structure
+
+Sales Analysis Dashboard:
+
+- Profit KPIs.
+- Quantity sold analysis.
+- Dealer performance.
+- Model sales comparison.
+
+Service Analysis Dashboard:
+
 - Customer sentiment analysis.
 - Vehicle recall analysis.
-- Interactive dashboard creation.
+- Recall patterns by model and system.
 
-Tools:
+---
+
+6. Tools Used
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Google Looker Studio
+- Data Visualization
