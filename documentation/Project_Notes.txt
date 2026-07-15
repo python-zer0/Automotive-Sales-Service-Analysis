@@ -1,0 +1,17 @@
+Automotive Sales & Service Analysis
+
+Project Summary:
+This project analyzes automotive sales and service data using Microsoft Excel and Google Looker Studio.
+
+Main Tasks:
+- Sales and profit analysis.
+- Dealer performance analysis.
+- Customer sentiment analysis.
+- Vehicle recall analysis.
+- Interactive dashboard creation.
+
+Tools:
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Google Looker Studio
